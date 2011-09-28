@@ -1,0 +1,8 @@
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\bin\Debug\ArduRGB.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\bin\Debug\ArduRGB.pdb
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ArduRGB.Form1.resources
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ArduRGB.Properties.Resources.resources
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ArduRGB.csproj.GenerateResource.Cache
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ArduRGB.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\ArduRGB\ArduRGB\obj\Debug\ArduRGB.pdb
